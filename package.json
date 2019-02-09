@@ -1,0 +1,24 @@
+{
+  "name": "hrext07-my-cruddy-app",
+  "version": "1.0.0",
+  "description": "Create Read Update and Delete framework using JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfeng3124/hrext07-my-cruddy-app.git"
+  },
+  "author": "Jia Feng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfeng3124/hrext07-my-cruddy-app/issues"
+  },
+  "homepage": "https://github.com/jfeng3124/hrext07-my-cruddy-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.11"
+  }
+}
