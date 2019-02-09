@@ -12,4 +12,10 @@ Create Read Update and Delete framework using JS
 - [ ] UI/UX considerations (how are we going to use this)
 
 ### Advanced Reqs
-- [ ] Item that I added goes here...
+- [ ] Recipe app that allows users to search for specific recipes 
+	  (using https://rapidapi.com/spoonacular/api/recipe-food-nutrition)
+- [ ] Allow user to search recipes by name/ingredients
+- [ ] Being able to narrow down results by selectors (gluten-free, vegan, cooking time, etc.)
+- [ ] Generating a grocery list from the recipe
+- [ ] Allow ratings for recipes
+- [ ] Putting recipes in categories allowing easier search (appetizers, main, desserts)
