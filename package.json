@@ -2,7 +2,7 @@
   "name": "hrext07-my-cruddy-app",
   "version": "1.0.0",
   "description": "Create Read Update and Delete framework using JS",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
